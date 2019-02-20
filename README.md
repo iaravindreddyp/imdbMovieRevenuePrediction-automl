@@ -1,2 +1,2 @@
-# imdbMovieRevenuePrediction-tpot
+# imdbMovieRevenuePrediction
 auto_Ml/tpot
